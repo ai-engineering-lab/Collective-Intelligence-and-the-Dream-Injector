@@ -30,3 +30,7 @@ Keywords: Collective Intelligence, Vectors, VectorDB, Consciousness, Artificial 
 ## on Github Codespaces with 16-core
 
 ![alt text](image.png)
+
+-----------------------
+
+**Design and architecture by Dang Hoang, AI Engineer**
